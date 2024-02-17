@@ -9,7 +9,7 @@ import {
 } from "react";
 import translateText from "./api";
 import classNames from "classnames";
-import "/Users/Brody Nelson/OneDrive - University of Missouri/Documents/Computer Science Projects/black-dashboard-react/src/assets/css/black-dashboard-react.css";
+import "C:/Users/Brody Nelson/OneDrive - University of Missouri/Documents/Computer Science Projects/ghp-my-journaling-app/src/assets/css/black-dashboard-react.css";
 import Draggable from "react-draggable";
 import TerminalInput from "./linetypes/TerminalInput";
 import TerminalOutput from "./linetypes/TerminalOutput";
